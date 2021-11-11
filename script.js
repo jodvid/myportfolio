@@ -1,6 +1,6 @@
 var database = [
 	{
-		username: "andrei",
+		username: "Rea",
 		password: "supersecret"
 	}
 ];
