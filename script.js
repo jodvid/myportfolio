@@ -25,7 +25,7 @@ function signIn(user,pass) {
 		{console.log(newsfeed);
 	}
 		else { 
-			alert("mga bobo"); }
+			alert("hello omeey ku"); }
 
 	}
 
